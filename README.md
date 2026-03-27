@@ -17,11 +17,11 @@ Atualmente, sou aluno do curso técnico em **Desenvolvimento de Sistemas no Sena
 
 ### 🧰 Minhas Skills
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | HTML, CSS, JavaScript, SQL |
-| **Ferramentas** | Git, GitHub, VS Code |
-| **Interesses** | Edge AI, Computer Vision, Banco de Dados |
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -38,11 +38,8 @@ Meu objetivo é atuar no desenvolvimento de soluções inteligentes, unindo a ro
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📈 Atividade no GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelinteraminense02-dot&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelinteraminense02-dot&layout=compact&theme=radical"/>
-</div>
+Para acompanhar meus projetos e evolução de código, sinta-se à vontade para explorar meus repositórios abaixo!
 
 ---
