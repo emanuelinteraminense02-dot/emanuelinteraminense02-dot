@@ -42,14 +42,14 @@ Meu foco atual está em **Edge AI** e **Visão Computacional para sistemas de tr
       <td align="center">
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
         <br/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
         <br/>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
         <br/>
-        <img src="https://img.shields.io/badge/Edge%20AI-007ACC?style=flat-square&logo=nvidia&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Edge%20AI-007ACC?style=flat-square&logo=lightning&logoColor=white"/>
         <br/>
         <img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       </td>
@@ -70,47 +70,12 @@ Meu foco atual está em **Edge AI** e **Visão Computacional para sistemas de tr
 > Arquitetura orientada a componentes, design system próprio e integração com APIs REST.
 > **Stack:** HTML5 · CSS3 · JavaScript · Node.js · SQL
 
----
-
 > [!TIP]
 > **🎯 Visão Computacional para Radares Inteligentes**
 >
 > Pesquisa aplicada em **Edge AI** para análise de fluxo de tráfego urbano via sensores.
 > Desenvolvimento de pipeline de detecção e classificação de veículos com **OpenCV** otimizado para hardware de borda.
 > **Stack:** OpenCV · Python · Edge Computing · Computer Vision Algorithms
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=emanuelinteraminense02-dot&show_icons=true&theme=tokyonight&title_color=007ACC&icon_color=007ACC&text_color=ffffff&bg_color=0d1117&border_color=007ACC&hide_border=false&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelinteraminense02-dot&layout=compact&theme=tokyonight&title_color=007ACC&text_color=ffffff&bg_color=0d1117&border_color=007ACC"/>
-
-</div>
-
----
-
-## 💻 Daily Tech
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">📱 <strong>Mobile</strong></td>
-    <td align="center">🔊 <strong>Audio</strong></td>
-    <td align="center">💡 <strong>Environment</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Redmi Note 14 Pro+</td>
-    <td align="center">JBL Boombox 3</td>
-    <td align="center">Edge AI · Sensors · Web</td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
@@ -121,7 +86,7 @@ Meu foco atual está em **Edge AI** e **Visão Computacional para sistemas de tr
 <a href="https://www.linkedin.com/in/emanuel-interaminense-a59a423ba/">
   <img src="https://img.shields.io/badge/LinkedIn-Emanuel%20Interaminense-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+&#160;&#160;
 <a href="mailto:emanuel.interaminense1@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-emanuel.interaminense1%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
@@ -137,4 +102,6 @@ Meu foco atual está em **Edge AI** e **Visão Computacional para sistemas de tr
 </div>
 
 <!-- FOOTER WAVE -->
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
