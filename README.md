@@ -4,9 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00d4ff&height=200&section=header&text=Emanuel%20Interaminense&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20em%20Formação%20%7C%20Senac&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=500&lines=Olá%2C+sou+o+Emanuel+%F0%9F%91%8B;Estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+tecnologia+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%F0%9F%92%A1" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=500&lines=Ol%C3%A1%2C+sou+o+Emanuel+%F0%9F%91%8B;Estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+tecnologia+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%F0%9F%92%A1" alt="Typing SVG" />
 
 <br/>
 
@@ -80,28 +78,11 @@ const emanuel = {
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelinteraminense02-dot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelinteraminense02-dot&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelinteraminense02-dot&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" alt="GitHub Streak"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelinteraminense02-dot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" />
 
----
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelinteraminense02-dot&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" />
 
-## 🏆 Troféus do GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emanuelinteraminense02-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
-## 📈 Gráfico de Atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emanuelinteraminense02-dot&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff" alt="Activity Graph"/>
 </div>
 
 ---
