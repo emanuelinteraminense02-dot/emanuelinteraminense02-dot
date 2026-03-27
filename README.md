@@ -27,7 +27,7 @@ Atualmente, sou aluno do curso técnico em **Desenvolvimento de Sistemas no Sena
 
 ### 🎯 Objetivos de Carreira
 
-Meu objetivo é atuar no desenvolvimento de soluções inteligentes, unindo a robustez do desenvolvimento de sistemas com o potencial da **IA e Visão Computacional**, buscando sempre criar tecnologias que impactem positivamente a infraestrutura urbana e a eficiência digital.
+Meu objetivo é atuar no desenvolvimento de soluções inteligentes, unindo a robustez do desenvolvimento de sistemas com o potencial da **IA e Visão Computacional**.
 
 ---
 
@@ -40,5 +40,9 @@ Meu objetivo é atuar no desenvolvimento de soluções inteligentes, unindo a ro
 
 ### 📊 Estatísticas do GitHub
 
-![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelinteraminense02-dot&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelinteraminense02-dot&layout=compact&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelinteraminense02-dot&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelinteraminense02-dot&layout=compact&theme=radical"/>
+</div>
+
+---
