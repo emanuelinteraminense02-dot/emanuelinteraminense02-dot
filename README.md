@@ -1,65 +1,71 @@
 <div align="center">
-  
-  # Olá, eu sou o Emanuel! 👋
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Estudante+de+Sistemas+-+Senac;Desenvolvedor+Front-end;Entusiasta+de+IA+%26+Computer+Vision" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=distort&color=007ACC&height=200&section=header&text=Emanuel%20Interaminense&fontSize=70&animation=fadeIn&fontAlignY=35" />
 
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/fidget-spinner.gif" width="50" />
-  </p>
+  ### 🚀 Software Development Student | Future AI & Computer Vision Specialist
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-interaminense-a59a423ba/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuel.interaminense1@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](#)
+
+  ---
+</div>
+
+### 📑 Resumo Profissional
+Desenvolvedor em formação técnica pelo **Senac**, com foco em arquitetura de sistemas e soluções inteligentes. Atualmente dedico meus estudos à tríade **Front-end Moderno**, **Estrutura de Dados (SQL)** e a aplicação prática de **Inteligência Artificial** em sistemas de monitoramento urbano.
+
+---
+
+### 🛠️ Stack Tecnológica
+
+<table align="center">
+  <tr>
+    <td align="center" width="200"><b>Front-end</b></td>
+    <td align="center" width="200"><b>Back-end & Data</b></td>
+    <td align="center" width="200"><b>Tools & AI</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📂 Projetos Estratégicos
+
+> [!IMPORTANT]
+> **Admin Dashboard v1.0** > Painel administrativo focado em performance e visualização de dados.  
+> `Stack: HTML5, CSS3, JS, SQL`
+
+> [!TIP]
+> **Edge AI Traffic Sensing** > Pesquisa e desenvolvimento de algoritmos de visão computacional aplicados a radares e sensores de tráfego.  
+> `Foco: Computer Vision, Python, Automação`
+
+---
+
+### 📊 Atividade & Performance
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelinteraminense02-dot&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 </div>
 
 ---
 
-### 🚀 Sobre Mim
-Sou um desenvolvedor em constante evolução, atualmente cursando **Desenvolvimento de Sistemas no Senac**. Meu foco é construir pontes entre o **desenvolvimento web** e a **Inteligência Artificial**, criando sistemas que não apenas funcionam, mas pensam.
-
----
-
-### 🛠️ Stack Tecnológica & Ferramentas
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer" />
   
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  
-  <br>
-
-  <img src="https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  
-</div>
-
----
-
-### 📊 Projetos em Desenvolvimento
-<details>
-  <summary><b>🛠️ Dashboard Administrativo (Expandir)</b></summary>
-  <br>
-  Interface completa focada em monitoramento de dados em tempo real, utilizando as melhores práticas de UI/UX que aprendi no Senac.
-</details>
-
-<details>
-  <summary><b>🤖 Pesquisa em Visão Computacional (Expandir)</b></summary>
-  <br>
-  Estudo focado em automação de tráfego e detecção de objetos via IA.
-</details>
-
----
-
-### 📫 Vamos conversar?
-<div align="center">
-  <a href="https://www.linkedin.com/in/emanuel-interaminense-a59a423ba/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:emanuel.interaminense1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  *"Construindo o futuro através do código e da inteligência de dados."*
 </div>
