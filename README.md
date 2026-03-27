@@ -1,6 +1,130 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Emanuel%20Interaminense&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20em%20Formação%20%7C%20Estudante%20Senac&descAlignY=58&descSize=16&animation=fadeIn" />
+<!-- BANNER PRINCIPAL -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Emanuel%20Interaminense&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20AI%20Researcher%20%7C%20Edge%20Vision&descAlignY=58&descSize=16&descColor=a8d8f0" width="100%"/>
+
+<!-- TYPING EFFECT -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+%40+Senac;Desenvolvedor+Front-end;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Olá! Sou **Emanuel Interaminense**, estudante técnico em **Desenvolvimento de Sistemas** no Senac, apaixonado pela interseção entre **desenvolvimento web moderno** e **inteligência artificial aplicada**.
+
+Meu foco atual está em **Edge AI** e **Visão Computacional para sistemas de tráfego inteligente** — transformando dados de sensores em insights acionáveis com tecnologia de ponta. Acredito que código limpo e design funcional são duas faces da mesma moeda.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>🌐 Front-end</th>
+      <th>🗄️ Back-end / Data</th>
+      <th>🤖 AI / Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Edge%20AI-007ACC?style=flat-square&logo=nvidia&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+---
+
+## 🚀 Current Projects
+
+> [!IMPORTANT]
+> **📊 Dashboard Administrativo Pessoal**
+>
+> Aplicação web full-stack com foco em **UI/UX de alta fidelidade** e visualização de dados em tempo real.
+> Arquitetura orientada a componentes, design system próprio e integração com APIs REST.
+> **Stack:** HTML5 · CSS3 · JavaScript · Node.js · SQL
+
+---
+
+> [!TIP]
+> **🎯 Visão Computacional para Radares Inteligentes**
+>
+> Pesquisa aplicada em **Edge AI** para análise de fluxo de tráfego urbano via sensores.
+> Desenvolvimento de pipeline de detecção e classificação de veículos com **OpenCV** otimizado para hardware de borda.
+> **Stack:** OpenCV · Python · Edge Computing · Computer Vision Algorithms
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=emanuelinteraminense02-dot&show_icons=true&theme=tokyonight&title_color=007ACC&icon_color=007ACC&text_color=ffffff&bg_color=0d1117&border_color=007ACC&hide_border=false&include_all_commits=true&count_private=true"/>
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelinteraminense02-dot&layout=compact&theme=tokyonight&title_color=007ACC&text_color=ffffff&bg_color=0d1117&border_color=007ACC"/>
+
+</div>
+
+---
+
+## 💻 Daily Tech
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">📱 <strong>Mobile</strong></td>
+    <td align="center">🔊 <strong>Audio</strong></td>
+    <td align="center">💡 <strong>Environment</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Redmi Note 14 Pro+</td>
+    <td align="center">JBL Boombox 3</td>
+    <td align="center">Edge AI · Sensors · Web</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📬 Contact & Network
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/emanuel-interaminense-a59a423ba/">
+  <img src="https://img.shields.io/badge/LinkedIn-Emanuel%20Interaminense-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:emanuel.interaminense1@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-emanuel.interaminense1%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -8,147 +132,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=Olá%2C+eu+sou+o+Emanuel!+👋;Estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+tecnologia+e+código;Sempre+aprendendo+algo+novo+🚀" alt="Typing SVG" />
+*"A fronteira entre o código e a inteligência é onde o futuro acontece."*
 
 </div>
 
----
-
-## 🧑‍💻 Sobre Mim
-
-```python
-class Emanuel:
-    def __init__(self):
-        self.nome       = "Emanuel Interaminense"
-        self.curso      = "Técnico em Desenvolvimento de Sistemas"
-        self.escola     = "Senac"
-        self.status     = "Estudando e evoluindo todo dia 📚"
-        self.interesses = ["Desenvolvimento Web", "Lógica de Programação", "Novos Desafios"]
-        self.objetivo   = "Construir soluções que fazem a diferença 🌟"
-
-    def contato(self):
-        return {
-            "email":    "emanuel.interaminense1@gmail.com",
-            "linkedin": "linkedin.com/in/emanuel-interaminense-a59a423ba",
-            "github":   "github.com/emanuelinteraminense02-dot"
-        }
-
-eu = Emanuel()
-print("Bem-vindo ao meu perfil! 🚀")
-```
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-### Linguagens
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelinteraminense02-dot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelinteraminense02-dot&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelinteraminense02-dot&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 Troféus do GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=emanuelinteraminense02-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
-</div>
-
----
-
-## 📈 Gráfico de Atividade
-
-<div align="center">
-
-[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=emanuelinteraminense02-dot&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🌱 Atualmente Aprendendo
-
-<div align="center">
-
-```
-🎯 Lógica de Programação          ████████████░░   85%
-🌐 Desenvolvimento Web             ██████████░░░░   70%
-🐍 Python                          ████████░░░░░░   60%
-🗃️ Banco de Dados                  ██████░░░░░░░░   50%
-📱 Desenvolvimento de Sistemas     ████████████░░   80%
-```
-
-</div>
-
----
-
-## 🎓 Formação
-
-<div align="center">
-
-| 🏫 Instituição | 📘 Curso | 📅 Status |
-|---|---|---|
-| **Senac** | Técnico em Desenvolvimento de Sistemas | 🔄 Em andamento |
-
-</div>
-
----
-
-## 📬 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-interaminense-a59a423ba/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuel.interaminense1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emanuelinteraminense02-dot)
-
-</div>
-
----
-
-<div align="center">
-
-### 👁️ Visitantes do Perfil
-
-![Profile Views](https://komarev.com/ghpvc/?username=emanuelinteraminense02-dot&color=blueviolet&style=for-the-badge&label=VISITANTES)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-
-*"Todo especialista já foi um dia um iniciante. Continue codando! 💻"*
-
-</div>
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=footer&animation=fadeIn" width="100%"/>
