@@ -1,45 +1,65 @@
-# Olá, eu sou o Emanuel! 👋
+<div align="center">
+  
+  # Olá, eu sou o Emanuel! 👋
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Estudante+de+Sistemas+-+Senac;Desenvolvedor+Front-end;Entusiasta+de+IA+%26+Computer+Vision" alt="Typing SVG" />
 
-### 🚀 Estudante de Desenvolvimento de Sistemas | Apaixonado por Tecnologia e Inovação
-
-Atualmente, sou aluno do curso técnico em **Desenvolvimento de Sistemas no Senac**, onde venho aprimorando minhas habilidades em lógica de programação, estruturas de dados e desenvolvimento de aplicações modernas. Tenho um interesse especial pela intersecção entre o desenvolvimento de software e a Inteligência Artificial.
-
----
-
-### 🛠️ No que estou trabalhando?
-
-- 💻 Atualmente focado em dominar **HTML5, CSS3 e JavaScript** para interfaces de alta performance.
-- 🗄️ Aprofundando conhecimentos em modelagem de dados e **SQL**.
-- 🤖 Explorando o uso de **Inteligência Artificial (IA)** aplicada a soluções do mundo real, como sistemas de monitoramento e automação.
-- 📊 Desenvolvendo um **Dashboard Administrativo** pessoal para consolidar meus estudos de Front-end e Back-end.
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/fidget-spinner.gif" width="50" />
+  </p>
+</div>
 
 ---
 
-### 🧰 Minhas Skills
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🚀 Sobre Mim
+Sou um desenvolvedor em constante evolução, atualmente cursando **Desenvolvimento de Sistemas no Senac**. Meu foco é construir pontes entre o **desenvolvimento web** e a **Inteligência Artificial**, criando sistemas que não apenas funcionam, mas pensam.
 
 ---
 
-### 🎯 Objetivos de Carreira
+### 🛠️ Stack Tecnológica & Ferramentas
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <br>
 
-Meu objetivo é atuar no desenvolvimento de soluções inteligentes, unindo a robustez do desenvolvimento de sistemas com o potencial da **IA e Visão Computacional**.
+  <img src="https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  
+</div>
+
+---
+
+### 📊 Projetos em Desenvolvimento
+<details>
+  <summary><b>🛠️ Dashboard Administrativo (Expandir)</b></summary>
+  <br>
+  Interface completa focada em monitoramento de dados em tempo real, utilizando as melhores práticas de UI/UX que aprendi no Senac.
+</details>
+
+<details>
+  <summary><b>🤖 Pesquisa em Visão Computacional (Expandir)</b></summary>
+  <br>
+  Estudo focado em automação de tráfego e detecção de objetos via IA.
+</details>
 
 ---
 
-### 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-interaminense-a59a423ba/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuel.interaminense1@gmail.com)
+### 📫 Vamos conversar?
+<div align="center">
+  <a href="https://www.linkedin.com/in/emanuel-interaminense-a59a423ba/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:emanuel.interaminense1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-### 📈 Atividade no GitHub
-
-Para acompanhar meus projetos e evolução de código, sinta-se à vontade para explorar meus repositórios abaixo!
-
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</div>
